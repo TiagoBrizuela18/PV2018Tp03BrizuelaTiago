@@ -28,7 +28,7 @@ public class LibrosManagedBean implements Serializable {
      * Creates a new instance of LibrosManagedBean
      */
     public LibrosManagedBean() {
-        listaLibros=new ListadoLibros();
+       
     }
     
     public void crearLibro(){
